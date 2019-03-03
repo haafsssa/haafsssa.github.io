@@ -1,0 +1,23 @@
+.profile-pic{
+	max-width: 100%;
+}
+
+.mymaincard{
+	background-color:#FFF0F5;
+}
+
+.mysmallcard{
+	background-color:#FFF0F5;
+}
+
+.custom-progress-bar-pink {
+ background-color:pink;
+}
+
+.back {
+	background-size:100%;
+	background-repeat:repeat-y;
+}
+.nav-link{
+	color: white;
+}
